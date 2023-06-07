@@ -7,3 +7,4 @@
 •	Event detection was done based on bursty periods of the tweets. Latent Dirichlet Allocation (LDA) was applied to generate important topics, their trends, and summaries.
 
 •	Technologies: LDA, NLP, TensorFlow, SciPy, NumPy, Tweepy, Matplotlib, Python.
+
